@@ -173,6 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-Data/*.csv
 *.csv
+tableau_exports/
+Data/
+data/
+
 
